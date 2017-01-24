@@ -2,5 +2,5 @@ body{
 	background: url(./images/railmall.png);
 	background-position:center;
 	background-size:no-repeat;
-    background-size:contain;
+    background-size:cover;
 }
