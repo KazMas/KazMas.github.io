@@ -1,22 +1,4 @@
-body{
-  text-align: center;
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-  color: #fff;
-  font-family: Cubano;
-}
-
-h1{
-  color: #fff;
-}
-
-#slogan{
-font-style: italic;
-text-align: right;
-}
-
-hr{
-wid:200px;
+body{ 
+	background-image: url(images/railmall.jpg);
+	background-size: cover;
 }
