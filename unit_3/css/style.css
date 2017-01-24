@@ -1,6 +1,7 @@
 body{ 
-  	color: #00000;
-  	font-family: Cubano;
+  background: url(./images/railmall.png);
+  text-align: center;
+  background-size: cover;
 }
 
 h1{
