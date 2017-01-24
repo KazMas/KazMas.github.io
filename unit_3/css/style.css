@@ -1,6 +1,6 @@
 body{
   text-align: center;
-  background: url("images/railmall.png");
+  background-image: url("images/railmall.png");
   background-size: cover;
   color: #fff;
   font-family: Cubano;
