@@ -1,5 +1,5 @@
 body{ 
-     
+	 font-weight:bold;
      background-image: url(../images/railmall.png);
   	 background-size: cover;
   	 background-position: center center;
@@ -11,17 +11,12 @@ body{
 }
 h1{
 	font-size: 50px;
-	font-weight:bold;
 	text-align: left;
     vertical-align: top;
-    padding-top: 100px;
-    padding-right: 30px;
-    padding-bottom: 100px;
-    padding-left: 30px;
 }
 #slogan{
 	font-style: italic;
-	text-align: right;
+	text-align: center;
 	font-size: 25px;
 }
 p{
