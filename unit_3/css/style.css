@@ -10,13 +10,13 @@ body{
   	 font-family: Cubano;
 }
 h1{
-	font: 400 60px/60px 'Open Sans', sans-serif;
-  	color: #fff;
+	font: 1000 120px/120px;
 }
 #slogan{
 	font-style: italic;
 	text-align: right;
+	font: 400 120px/120px;
 }
 hr{
-	wid:200px;
+	wid:20px;
 }
