@@ -15,9 +15,12 @@ h1{
     vertical-align: top;
 }
 #slogan{
-	font-style: italic;
 	text-align: center;
+	font-style: italic;
 	font-size: 25px;
+}
+hr{
+	width: 100px;
 }
 p{
 	text-align: center;
