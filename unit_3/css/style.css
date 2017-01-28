@@ -21,6 +21,7 @@ p{
 	font-size: 40px;
 }
 h2{
-	text-align: bottom;
+	text-align: center;
+    vertical-align: bottom; 
 	font-size: 40px;
 }
