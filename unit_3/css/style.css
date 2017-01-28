@@ -1,4 +1,5 @@
 body{ 
+     text-align: center;
 	 background-image: url(../images/railmall.png);
   	 background-size: cover;
   	 background-position: center center;
@@ -9,15 +10,17 @@ body{
   	 font-family: Cubano;
 }
 h1{
-	text-align: center;
-	font: 1500 120px/120px;
+	font-size: 50px;
 }
 #slogan{
 	font-style: italic;
 	text-align: right;
-	font: 400 120px/120px;
+	font-size: 45px;
+}
+p{
+	font-size: 40px;
 }
 h2{
-	font-style: italic;
 	text-align: bottom;
+	font-size: 40px;
 }
