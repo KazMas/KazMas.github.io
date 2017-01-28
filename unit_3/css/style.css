@@ -14,14 +14,15 @@ h1{
 	margin: 10px 10px 40px;
 }
 #slogan{
-	font-family: Times, cursive; 
+	font-family: Arial;
+	font-family: cursive; 
 	text-align: center;
 	font-style: italic;
 	font-size: px;
-	margin: 100px 50px 100px;
+	margin: 100px 50px 10px;
 }
 hr{
-	width: 100px;
+	width: 70px;
 }
 p{
 	text-align: center;
