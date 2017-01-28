@@ -9,16 +9,14 @@ body{
    	 color: #fff;
   	 font-family: Cubano;
 }
-
 h1{
-  color: #fff;
+	font: 400 60px/60px 'Open Sans', sans-serif;
+  	color: #fff;
 }
-
 #slogan{
 	font-style: italic;
 	text-align: right;
 }
-
 hr{
 	wid:200px;
 }
