@@ -1,10 +1,9 @@
-body{ 
-	 font-weight:bold;
-     background-image: url(../images/railmall.png);
-  	 background-size: cover;
-  	 background-position: center center;
-   	 color: #fff;
-  	 font-family: Arial;
+body{
+	font-weight:bold;
+    background-image: url(../images/railmall.png);
+    background-size: cover;
+  	color: #fff;
+  	font-family: Arial;
 }
 h1{
 	text-align: left;
