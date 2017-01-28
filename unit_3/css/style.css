@@ -13,22 +13,23 @@ h1{
 	font-size: 30px;
 	margin: 10px 10px 40px;
 }
+p{
+	text-align: left;
+	font-size: 10px;
+	line-height: 1.1em;
+}
 #slogan{
 	font-family: Arial;
 	font-family: cursive; 
 	text-align: center;
 	font-style: italic;
 	font-size: 40px;
-	margin: 150px 50px 100px;
+	margin: 170px 50px 100px;
 }
 hr{
 	width: 100px;
 }
-p{
-	text-align: center;
-	font-size: 15px;
-	line-height: 1.5em;
-}
+
 h2{
 	text-align: center;
     vertical-align: bottom; 
