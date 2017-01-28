@@ -1,5 +1,24 @@
 body{ 
-  background-image: url(../images/railmall.png);
-  background-size: cover;
+	 text-align: center;
+	 background-image: url(../images/railmall.png);
+  	 background-size: cover;
+  	 background-position: center center;
+     background-repeat: no-repeat;
+  	 background-attachment: fixed;
+  	 background-size: cover;
+   	 color: #fff;
+  	 font-family: Cubano;
 }
 
+h1{
+  color: #fff;
+}
+
+#slogan{
+	font-style: italic;
+	text-align: right;
+}
+
+hr{
+	wid:200px;
+}
