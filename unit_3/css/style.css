@@ -6,7 +6,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     color: #fff;
-  	font-family: Arial;
+  	font-family: Tahoma;
 }
 h1{
 	text-align: left;
@@ -14,10 +14,11 @@ h1{
 	margin: 10px 10px 40px;
 }
 #slogan{
+	font-family: Times, cursive; 
 	text-align: center;
 	font-style: italic;
-	font-size: 25px;
-	margin: 100px 50px 1000px;
+	font-size: px;
+	margin: 100px 50px 100px;
 }
 hr{
 	width: 100px;
