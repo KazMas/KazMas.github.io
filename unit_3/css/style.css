@@ -1,8 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz');
 body{
-	font-weight:bold;
-    background-image: url(../images/railmall.png);
+	background-image: url(../images/railmall.png);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
