@@ -1,5 +1,6 @@
 
 @import url('https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz');
+@import url('https://fonts.googleapis.com/css?family=Handlee');
 body{
 	background-image: url(../images/railmall.png);
     background-attachment: fixed;
@@ -21,8 +22,7 @@ ul{
 	margin: 10px 10px 10px;
 }
 #slogan{
-	font-family: Arial;
-	font-family: cursive; 
+	font-family: 'Handlee', cursive; 
 	text-align: center;
 	font-style: italic;
 	font-size: 50px;
@@ -37,4 +37,7 @@ h2{
     vertical-align: bottom; 
 	font-size: 15px;
 	margin: 40px 50px 10px;
+}
+a{
+	color: #fff;
 }
