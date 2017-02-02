@@ -15,17 +15,17 @@ header {
     border: 1px black solid;
     padding: 20px;
 }
-aside {
+.blank {
     background-color: #FFC675;
     border: 1px black solid;
     padding: 20px;
 }
-article {
+.description {
     background-color: #E89C6C;
     border: 1px black solid;
     padding: 20px;
 }
-section {
+#one {
     background-color: #FFE2B8;
     border: 1px black solid;
     padding: 20px;
@@ -52,7 +52,6 @@ ul{
 hr{
 	width: 100px;
 }
-
 h2{
 	text-align: center;
     vertical-align: bottom; 
