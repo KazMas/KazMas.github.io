@@ -23,14 +23,14 @@ header {
     border: 1px black solid;
     padding: 20px;
     float: left;
-    width: 50%;
+    width: 60%;
 }
 #right {
     background-color: #E55B88;
     border: 1px black solid;
     padding: 20px;
     float: right;
-    width: 50%;
+    width: 40%;
 }
 .clearfix:after{
 	visibility: hidden;
@@ -48,7 +48,7 @@ h1{
 ul{
 	list-style: none;
 	text-align: center;
-	font-size: 15px;
+	font-size: 20px;
 	line-height: 1.1em;
 	margin: 10px 10px 10px;
 }
@@ -57,7 +57,7 @@ ul{
 	font-family: 'Niconne', cursive;
 	text-align: center;
 	font-style: italic;
-	font-size: 50px;
+	font-size: 60px;
 	margin: 160px 50px 100px;
 }
 hr{
