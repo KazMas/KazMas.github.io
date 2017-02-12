@@ -47,10 +47,10 @@ h1{
 }
 ul{
 	list-style: none;
-	text-align: center;
-	font-size: 20px;
+	text-align: left;
+	font-size: 25px;
 	line-height: 1.1em;
-	margin: 10px 10px 10px;
+	margin: 30px 10px 30px;
 }
 #slogan{
 	font-family: 'Dancing Script', cursive;
