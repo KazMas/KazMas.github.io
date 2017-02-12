@@ -11,7 +11,6 @@ body{
   	font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 header {
-    background-color: #FFED74;
     border: 1px black solid;
     padding: 20px;
 }
@@ -26,7 +25,6 @@ header {
     width: 60%;
 }
 #right {
-    background-color: #E55B88;
     border: 1px black solid;
     padding: 20px;
     float: right;
@@ -60,7 +58,7 @@ ul{
 	font-size: 60px;
 	}
 hr{
-	width: 100px;
+	width: 30%;
 }
 h2{
 	text-align: center;
