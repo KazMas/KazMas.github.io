@@ -25,10 +25,12 @@ header {
     width: 60%;
 }
 #right {
+	text-align: center;
     border: 1px black solid;
     padding: 20px;
     float: right;
     width: 35%;
+
 }
 .clearfix:after{
 	visibility: hidden;
@@ -52,7 +54,7 @@ ul{
 }
 li {
   	float: left;
-  	width: 50%;
+  	width: 25%;
     height: 6em;
   	outline: 3px solid #222;
   	text-align: center;
