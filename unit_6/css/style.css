@@ -49,6 +49,7 @@ ul{
 	margin: 30px 10px 30px;
 }
 li{
+    color: #fff;
   	float: left;
   	width: 20%;
     height: 6em;
@@ -58,7 +59,6 @@ li{
 }
 a:hover{
     background-color: yellow;
-    color: #fff;
 }
 #slogan{
 	font-family: 'Dancing Script', cursive;
