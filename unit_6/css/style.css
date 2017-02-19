@@ -50,12 +50,12 @@ ul{
 }
 li {
   	float: left;
-  	width: 25%;
+  	width: 20%;
     height: 6em;
-  	outline: 3px solid #222;
+  	outline: 1px solid #fff;
   	text-align: center;
   	line-height: 6em;
-  	color: #000;
+  	color: #fff;
   	}
 #slogan{
 	font-family: 'Dancing Script', cursive;
@@ -68,6 +68,7 @@ hr{
 	width: 30%;
 }
 div{
+	text-align: center;
 	font-size: 1.2em;
   	width: 100%;
   	padding: 2%;
