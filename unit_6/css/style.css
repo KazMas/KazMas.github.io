@@ -55,10 +55,10 @@ li{
   	outline: 1px solid #fff;
   	text-align: center;
   	line-height: 6em;
-  	color: #fff;
-  	}
+}
 a:hover{
     background-color: yellow;
+    color: #fff;
 }
 #slogan{
 	font-family: 'Dancing Script', cursive;
@@ -84,6 +84,8 @@ h3{
 	text-align: center;
     vertical-align: bottom; 
 	font-size: 15px;
-	color: #0000FF
+}
+footer{
+	color: #0000FF	
 }
 
