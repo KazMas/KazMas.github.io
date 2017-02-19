@@ -57,8 +57,8 @@ li{
   	text-align: center;
   	line-height: 6em;
   	filter:alpha(opacity=50);
-    -moz-opacity: 0.5;
-    opacity: 0.5;
+  	-moz-opacity: 0.5;
+  	opacity: 0.5;
 }
 a:hover{
     background-color: yellow;
