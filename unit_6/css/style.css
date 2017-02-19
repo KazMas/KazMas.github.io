@@ -11,22 +11,18 @@ body{
   	font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 header {
-    border: 1px black solid;
     padding: 20px;
 }
 #two_column {
-    border: 1px black solid;
     padding: 20px;
 }
 #left {
-    border: 1px black solid;
     padding: 20px;
     float: left;
     width: 60%;
 }
 #right {
 	text-align: center;
-    border: 1px black solid;
     padding: 20px;
     float: right;
     width: 35%;
@@ -92,6 +88,5 @@ a{
 }
 footer {
     background-color: #FFE2B8;
-    border: 1px black solid;
     padding: 20px;
 }
