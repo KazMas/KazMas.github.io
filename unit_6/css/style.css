@@ -57,7 +57,7 @@ li {
   	line-height: 6em;
   	color: #fff;
   	}
-li:hover{
+a:hover{
     background-color: yellow;
 }
 #slogan{
