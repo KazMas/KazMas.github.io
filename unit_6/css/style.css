@@ -57,6 +57,9 @@ li {
   	line-height: 6em;
   	color: #fff;
   	}
+li:hover{
+    background-color: yellow;
+}
 #slogan{
 	font-family: 'Dancing Script', cursive;
 	font-family: 'Niconne', cursive;
