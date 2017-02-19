@@ -48,7 +48,7 @@ ul{
 	line-height: 1.1em;
 	margin: 30px 10px 30px;
 }
-li {
+li{
   	float: left;
   	width: 20%;
     height: 6em;
@@ -85,5 +85,5 @@ h3{
     vertical-align: bottom; 
 	font-size: 15px;
 	color: #0000FF
-	}
+}
 
