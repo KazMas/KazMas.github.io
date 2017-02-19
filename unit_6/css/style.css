@@ -28,7 +28,7 @@ header {
     border: 1px black solid;
     padding: 20px;
     float: right;
-    width: 40%;
+    width: 35%;
 }
 .clearfix:after{
 	visibility: hidden;
@@ -60,7 +60,16 @@ ul{
 hr{
 	width: 30%;
 }
-h2{
+div{
+	font-size: 1.2em;
+  	width: 100%;
+  	padding: 2%;
+  	  	display: inline-block;
+}
+#stories{
+  	float: right;
+}
+h2,h3{
 	text-align: center;
     vertical-align: bottom; 
 	font-size: 15px;
