@@ -50,6 +50,16 @@ ul{
 	line-height: 1.1em;
 	margin: 30px 10px 30px;
 }
+li {
+  	float: left;
+  	width: 100%;
+    height: 6em;
+  	outline: 3px solid #222;
+  	text-align: center;
+  	line-height: 6em;
+  	color: #000;
+  	background: #fff;
+}
 #slogan{
 	font-family: 'Dancing Script', cursive;
 	font-family: 'Niconne', cursive;
