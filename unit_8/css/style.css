@@ -51,7 +51,7 @@ ul{
 li{
     color: #fff;
   	float: left;
-  	width: 20%;
+  	width: 50%;
     height: 6em;
   	outline: 1px solid #fff;
   	text-align: center;
@@ -96,3 +96,11 @@ footer{
 	color: #0000FF	
 }
 
+@media (max-width: 800px) {
+  nav {
+   float: none;
+  }
+  nav a {
+    margin: 0 1.6em .75em 0;
+  }
+}
