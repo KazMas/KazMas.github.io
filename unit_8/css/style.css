@@ -1,0 +1,98 @@
+
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Niconne');
+@import url('https://fonts.googleapis.com/css?family=Handlee');
+body{
+	background-image: url(../images/railmall.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+  	font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+header {
+    padding: 20px;
+}
+#two_column {
+    padding: 20px;
+}
+#left {
+    padding: 20px;
+    float: left;
+    width: 60%;
+}
+#right {
+	text-align: center;
+    padding: 20px;
+    float: right;
+    width: 35%;
+
+}
+.clearfix:after{
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: "";
+	clear: both;
+	height: 0;
+}
+h1{
+	text-align: left;
+	font-size: 30px;
+	margin: 5px 2px 10px;
+}
+ul{
+	list-style: none;
+	text-align: left;
+	font-size: 25px;
+	line-height: 1.1em;
+	margin: 30px 10px 30px;
+}
+li{
+    color: #fff;
+  	float: left;
+  	width: 20%;
+    height: 6em;
+  	outline: 1px solid #fff;
+  	text-align: center;
+  	line-height: 6em;
+}
+a{
+	background: #000;
+    display: block;
+    filter:alpha(opacity=50);
+    -moz-opacity: 0.5;
+    opacity: 0.5;
+}
+a:hover{
+    background-color: yellow;
+}
+#slogan{
+	font-family: 'Dancing Script', cursive;
+	font-family: 'Niconne', cursive;
+	text-align: center;
+	font-style: italic;
+	font-size: 60px;
+	}
+hr{
+	width: 30%;
+}
+div{
+	text-align: center;
+	font-size: 1.2em;
+  	width: 100%;
+  	padding: 2%;
+  	display: inline-block;
+}
+#stories{
+  	float: right;
+}
+h3{
+	text-align: center;
+    vertical-align: bottom; 
+	font-size: 15px;
+}
+footer{
+	color: #0000FF	
+}
+
