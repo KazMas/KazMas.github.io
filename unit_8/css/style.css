@@ -26,7 +26,6 @@ header {
     padding: 20px;
     float: right;
     width: 35%;
-
 }
 .clearfix:after{
 	visibility: hidden;
@@ -51,7 +50,7 @@ ul{
 li{
     color: #fff;
   	float: left;
-  	width: 50%;
+  	width: 20%;
     height: 6em;
   	outline: 1px solid #fff;
   	text-align: center;
@@ -87,20 +86,29 @@ div{
 #stories{
   	float: right;
 }
-h3{
+footer{
+	color: #0000FF
 	text-align: center;
     vertical-align: bottom; 
 	font-size: 15px;
 }
-footer{
-	color: #0000FF	
+@media only screen and (max-width: 800px) {
+ #right {
+	text-align: center;
+    padding: 20px;
+    float: none;
+    width: 35%;
+  }
+  #slogan {
+    font-size: 1.4em;
+  }
 }
-
-@media (max-width: 800px) {
-  nav {
-   float: none;
-  }
-  nav a {
-    margin: 0 1.6em .75em 0;
-  }
+@media only screen and (max-width: 480px) {
+ li {
+    width: 50%;
+    height: 6em;
+    outline-width: .5em;
+    height: 2em;
+    line-height: 2em;
+ } 
 }
