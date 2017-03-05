@@ -88,6 +88,7 @@ footer {
 	color: #0000FF
 	font-size: 1em;
 	display: inline-block;
+	margin: 1.8em .6em 0;
 }
 @media only screen and (max-width: 800px) {
  #right {
