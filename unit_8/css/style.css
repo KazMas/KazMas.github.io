@@ -101,13 +101,15 @@ footer {
   }
 }
 @media only screen and (max-width: 480px) {
+ body {
+    text-align: center;
+  }
  #stories {
  	float: none;
     font-size: 1em;
     display: inline;
   }
   ul {
-    margin: 1.8em .6em 0;
     font-size: 1em;
   }
  li {
