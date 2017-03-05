@@ -89,6 +89,7 @@ footer{
 	vertical-align: bottom; 
 	font-size: 1em;
 	display: inline-block;
+	float: none;
 }
 @media only screen and (max-width: 800px) {
  #right {
