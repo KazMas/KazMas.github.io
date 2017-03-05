@@ -73,19 +73,11 @@ a:hover{
 #slogan{
 	font-family: 'Dancing Script', cursive;
 	font-family: 'Niconne', cursive;
-	text-align: center;
 	font-style: italic;
 	font-size: 60px;
 	}
 hr{
 	width: 30%;
-}
-div{
-	text-align: center;
-	font-size: 1.2em;
-  	width: 100%;
-  	padding: 2%;
-  	display: inline-block;
 }
 #stories{
   	float: right;
@@ -102,8 +94,6 @@ footer {
  #right {
 	text-align: center;
 	width: 100%;
-    float: left;
-    margin: 1.8em .1em .6em 0;
     font-size: 2em;
   }
 }
