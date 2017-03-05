@@ -120,6 +120,6 @@ footer{
     outline-width: .1em;
     padding: .1em;
     height: 2em;
-    line-height: .1em;
+    line-height: 2em;
   }
 }
