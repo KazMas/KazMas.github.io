@@ -16,11 +16,6 @@ header {
 #two_column {
     padding: 20px;
 }
-#left {
-    padding: 20px;
-    float: left;
-    width: 60%;
-}
 #right {
 	text-align: center;
     padding: 20px;
