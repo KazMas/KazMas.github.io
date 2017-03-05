@@ -109,6 +109,9 @@ footer{
     font-size: 1em;
     display: inline;
   }
+  ul {
+    margin: 1.8em .6em 0;
+  }
  li {
     width: 50%;
     height: 6em;
