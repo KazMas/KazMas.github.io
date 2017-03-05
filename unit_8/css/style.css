@@ -115,10 +115,10 @@ footer{
   }
  li {
     width: 80%;
-    outline-width: .5em;
-    padding: .5em;
-    height: .5em;
-    line-height: .5em;
-    outline: .5em solid #fff;
+    outline-width: .1em;
+    padding: .1em;
+    height: .1em;
+    line-height: .1em;
+    outline: .1em solid #fff;
  }
 }
