@@ -118,6 +118,7 @@ footer{
     outline-width: .5em;
     padding: .5em;
     height: 2em;
-    line-height: 2em;
+    line-height: .3em;
+    outline: .3em solid #fff;
  }
 }
