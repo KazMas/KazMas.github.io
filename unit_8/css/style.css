@@ -13,6 +13,9 @@ body{
 header {
     padding: 20px;
 }
+body {
+    text-align: center;
+  }
 #two_column {
     padding: 20px;
 }
