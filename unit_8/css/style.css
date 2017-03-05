@@ -57,7 +57,8 @@ li{
   	line-height: 6em;
 }
 a{
-	background: #000;
+	width: 80%;
+    background: #000;
     display: block;
     filter:alpha(opacity=50);
     -moz-opacity: 0.5;
@@ -117,7 +118,7 @@ footer{
     width: 80%;
     outline-width: .1em;
     padding: .1em;
-    height: 1em;
+    height: 2em;
     line-height: .1em;
   }
 }
