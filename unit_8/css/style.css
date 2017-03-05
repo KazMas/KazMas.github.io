@@ -26,6 +26,9 @@ body {
     float: right;
     width: 35%;
 }
+.wrapper {
+	overflow: hidden;
+}
 .clearfix:after{
 	visibility: hidden;
 	display: block;
