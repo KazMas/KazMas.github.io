@@ -96,9 +96,8 @@ footer {
 	text-align: center;
 	width: 100%;
     float: left;
-  }
-  #slogan {
-    font-size: 1.4em;
+    margin: 1.8em .6em 0;
+    font-size: 2em;
   }
 }
 @media only screen and (max-width: 480px) {
