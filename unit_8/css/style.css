@@ -91,6 +91,7 @@ footer{
 	text-align: center;
     vertical-align: bottom; 
 	font-size: 15px;
+	display: inline-block;
 }
 @media only screen and (max-width: 800px) {
  #right {
@@ -104,6 +105,10 @@ footer{
   }
 }
 @media only screen and (max-width: 480px) {
+ #stories {
+    font-size: 1em;
+    display: inline;
+  }
  li {
     width: 50%;
     height: 6em;
