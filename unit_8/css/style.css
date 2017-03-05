@@ -79,6 +79,13 @@ a:hover{
 hr{
 	width: 30%;
 }
+div{
+	text-align: center;
+	font-size: 1.2em;
+  	width: 100%;
+  	padding: 2%;
+  	display: inline-block;
+}
 #stories{
   	float: right;
 }
