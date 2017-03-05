@@ -99,8 +99,7 @@ footer{
  #right {
 	text-align: center;
     padding: 20px;
-    float: none;
-    width: 35%;
+    float: left;
   }
   #slogan {
     font-size: 1.4em;
