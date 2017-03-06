@@ -11,18 +11,18 @@ body{
   	font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 header {
-    padding: 20px;
+    padding: 5%;
 }
 body {
     text-align: center;
     margin: 30px 10px 30px;
   }
 #two_column {
-    padding: 5px;
+    padding: 5%;
 }
 #right {
 	text-align: center;
-    padding: 5px;
+    padding: 5%;
     float: right;
     width: 35%;
 }
