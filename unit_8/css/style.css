@@ -108,14 +108,14 @@ footer {
  #stories {
  	float: none;
  	font-size: 1em;
+ 	text-align: center;
   }
   ul {
   	font-size: 1em;
   }
  li {
  	display: inline-block;
-	text-align: center;
- 	width: 80%;
+	width: 80%;
  	outline-width: .1em;
     padding: .1em;
     height: 2em;
