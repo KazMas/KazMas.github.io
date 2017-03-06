@@ -101,7 +101,6 @@ footer {
  	float: left;
 	width: 80%;
 	margin:0 auto;
-
     font-size: 2em;
   }
 }
@@ -112,7 +111,6 @@ footer {
     display: inline;
   }
   ul {
-  	
   	font-size: 1em;
   }
  li {
@@ -127,5 +125,6 @@ footer {
   }
 .inline li {
 	display: inline;
+	overflow: hidden;
   }
 }
