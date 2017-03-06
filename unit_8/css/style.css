@@ -100,16 +100,14 @@ footer {
 }
 @media only screen and (max-width: 800px) {
  #right {
- 	float: none;
-	text-align: center;
+ 	float: left;
 	width: 100%;
     font-size: 2em;
   }
 }
 @media only screen and (max-width: 480px) {
  #stories {
- 	float: none;
-    font-size: 1em;
+ 	font-size: 1em;
     display: inline;
   }
   ul {
