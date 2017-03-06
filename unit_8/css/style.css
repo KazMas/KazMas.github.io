@@ -100,6 +100,7 @@ footer {
 }
 @media only screen and (max-width: 800px) {
  #right {
+ 	float: none;
 	text-align: center;
 	width: 100%;
     font-size: 2em;
