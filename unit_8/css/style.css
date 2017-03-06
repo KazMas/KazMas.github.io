@@ -111,12 +111,11 @@ footer {
     display: inline;
   }
   ul {
-  	margin: 30px 10px 30px;
+  	width: 80%;
+	margin:0 auto;
     font-size: 1em;
   }
  li {
-    width: 80%;
-	margin:0 auto;
     outline-width: .1em;
     padding: .1em;
     height: 2em;
