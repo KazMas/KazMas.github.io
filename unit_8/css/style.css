@@ -16,6 +16,7 @@ header {
 body {
     text-align: center;
     margin: 30px 10px 30px;
+    overflow-x: hidden; 
   }
 #two_column {
     padding: 5%;
